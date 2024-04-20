@@ -1,4 +1,4 @@
-# --- TypeScrip Practice Code ----
+# --- TypeScript Practice Code ----
 
 
 ### 1. npm install -g typescript
