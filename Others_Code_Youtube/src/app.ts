@@ -32,6 +32,7 @@
 //     name: string;
 //     age: number;
 //     address?: string;
+
 // };
 
 // function login(userData: User): User {
@@ -97,7 +98,7 @@
 //     // name: string;
 //     // price: number;
 //     // fileSize: number;
-//     // format: string;
+//     // format: string; 
 //     duration: number;
 // }
 
